@@ -1,4 +1,4 @@
-package com.anupam.designpattern.factorydesignpattern;
+package com.anupam.designpattern.factorydesign;
 
 public class NotificationFactory {
 

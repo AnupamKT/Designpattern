@@ -1,4 +1,4 @@
-package com.anupam.designpattern.factorydesignpattern;
+package com.anupam.designpattern.factorydesign;
 
 public class Client {
     public static void main(String[] args) {
