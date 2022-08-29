@@ -1,4 +1,4 @@
-package com.anupam.desginpattern.factorydesignpattern;
+package com.anupam.designpattern.factorydesignpattern;
 
 public class EMailNotification implements Notification{
     @Override
